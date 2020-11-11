@@ -1,0 +1,6 @@
+1914775,Dinh Trong Dat,True,CTK43,10
+1914521,Dao Xuan Hai,True,CTK43,5
+1914444,Nguyen Thi Thanh Lich,False,CTK43,7
+1569854,Pham Van Truong,True,DPK43,4
+1654214,Bui Thi Truc Linh,False,DPK43,1
+1914444,Tran Minh Canh,True,QTK43,5

@@ -1,0 +1,6 @@
+C:\Users\ADMIN\Documents\Visual Studio 2013\Projects\OnTapClass\OnTapClass\obj\Debug\OnTapClass.csprojResolveAssemblyReference.cache
+C:\Users\ADMIN\Documents\Visual Studio 2013\Projects\OnTapClass\OnTapClass\bin\Debug\OnTapClass.exe.config
+C:\Users\ADMIN\Documents\Visual Studio 2013\Projects\OnTapClass\OnTapClass\bin\Debug\OnTapClass.exe
+C:\Users\ADMIN\Documents\Visual Studio 2013\Projects\OnTapClass\OnTapClass\bin\Debug\OnTapClass.pdb
+C:\Users\ADMIN\Documents\Visual Studio 2013\Projects\OnTapClass\OnTapClass\obj\Debug\OnTapClass.exe
+C:\Users\ADMIN\Documents\Visual Studio 2013\Projects\OnTapClass\OnTapClass\obj\Debug\OnTapClass.pdb

@@ -1,0 +1,6 @@
+1914775,Dinh Trong Dat,10.0,Nam,CTK43
+1914521,Dao Xuan Hai,5.0,Nam,CTK43
+1914444,Nguyen Thi Thanh Lich,7.0,Nu,CTK43
+1569854,Pham Van Truong,4.0,Nam,DPK43
+1654214,Bui Thi Truc Linh,1.0,Nu,DPK43
+1914444,Tran Minh Canh,5.0,Nam,QTK43
