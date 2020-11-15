@@ -1,0 +1,6 @@
+D:\C#\QuanLyHinhHoc\QuanLyHinhHoc\bin\Debug\QuanLyHinhHoc.exe.config
+D:\C#\QuanLyHinhHoc\QuanLyHinhHoc\bin\Debug\QuanLyHinhHoc.exe
+D:\C#\QuanLyHinhHoc\QuanLyHinhHoc\bin\Debug\QuanLyHinhHoc.pdb
+D:\C#\QuanLyHinhHoc\QuanLyHinhHoc\obj\Debug\QuanLyHinhHoc.csprojResolveAssemblyReference.cache
+D:\C#\QuanLyHinhHoc\QuanLyHinhHoc\obj\Debug\QuanLyHinhHoc.exe
+D:\C#\QuanLyHinhHoc\QuanLyHinhHoc\obj\Debug\QuanLyHinhHoc.pdb
