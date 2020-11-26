@@ -1,0 +1,6 @@
+D:\C#\QuanLyHinhHoc_KeThua\QuanLyHinhHoc_KeThua\bin\Debug\QuanLyHinhHoc_KeThua.exe.config
+D:\C#\QuanLyHinhHoc_KeThua\QuanLyHinhHoc_KeThua\bin\Debug\QuanLyHinhHoc_KeThua.exe
+D:\C#\QuanLyHinhHoc_KeThua\QuanLyHinhHoc_KeThua\bin\Debug\QuanLyHinhHoc_KeThua.pdb
+D:\C#\QuanLyHinhHoc_KeThua\QuanLyHinhHoc_KeThua\obj\Debug\QuanLyHinhHoc_KeThua.csprojResolveAssemblyReference.cache
+D:\C#\QuanLyHinhHoc_KeThua\QuanLyHinhHoc_KeThua\obj\Debug\QuanLyHinhHoc_KeThua.exe
+D:\C#\QuanLyHinhHoc_KeThua\QuanLyHinhHoc_KeThua\obj\Debug\QuanLyHinhHoc_KeThua.pdb
