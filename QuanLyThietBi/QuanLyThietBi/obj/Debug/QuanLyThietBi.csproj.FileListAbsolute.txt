@@ -1,0 +1,6 @@
+D:\C#\QuanLyThietBi\QuanLyThietBi\bin\Debug\QuanLyThietBi.exe.config
+D:\C#\QuanLyThietBi\QuanLyThietBi\obj\Debug\QuanLyThietBi.csprojResolveAssemblyReference.cache
+D:\C#\QuanLyThietBi\QuanLyThietBi\bin\Debug\QuanLyThietBi.exe
+D:\C#\QuanLyThietBi\QuanLyThietBi\bin\Debug\QuanLyThietBi.pdb
+D:\C#\QuanLyThietBi\QuanLyThietBi\obj\Debug\QuanLyThietBi.exe
+D:\C#\QuanLyThietBi\QuanLyThietBi\obj\Debug\QuanLyThietBi.pdb
