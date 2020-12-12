@@ -1,0 +1,6 @@
+D:\C#\Chuong2\Bai15\bin\Debug\Bai15.exe.config
+D:\C#\Chuong2\Bai15\bin\Debug\Bai15.exe
+D:\C#\Chuong2\Bai15\bin\Debug\Bai15.pdb
+D:\C#\Chuong2\Bai15\obj\Debug\Bai15.csprojResolveAssemblyReference.cache
+D:\C#\Chuong2\Bai15\obj\Debug\Bai15.exe
+D:\C#\Chuong2\Bai15\obj\Debug\Bai15.pdb

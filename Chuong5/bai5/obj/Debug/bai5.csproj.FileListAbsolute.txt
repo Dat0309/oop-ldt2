@@ -1,0 +1,6 @@
+D:\C#\Chuong5\bai5\bin\Debug\bai5.exe.config
+D:\C#\Chuong5\bai5\bin\Debug\bai5.exe
+D:\C#\Chuong5\bai5\bin\Debug\bai5.pdb
+D:\C#\Chuong5\bai5\obj\Debug\bai5.csprojResolveAssemblyReference.cache
+D:\C#\Chuong5\bai5\obj\Debug\bai5.exe
+D:\C#\Chuong5\bai5\obj\Debug\bai5.pdb

@@ -1,0 +1,6 @@
+D:\C#\Chuong5\Chuong5\bin\Debug\Chuong5.exe.config
+D:\C#\Chuong5\Chuong5\bin\Debug\Chuong5.exe
+D:\C#\Chuong5\Chuong5\bin\Debug\Chuong5.pdb
+D:\C#\Chuong5\Chuong5\obj\Debug\Bai1.csprojResolveAssemblyReference.cache
+D:\C#\Chuong5\Chuong5\obj\Debug\Chuong5.exe
+D:\C#\Chuong5\Chuong5\obj\Debug\Chuong5.pdb

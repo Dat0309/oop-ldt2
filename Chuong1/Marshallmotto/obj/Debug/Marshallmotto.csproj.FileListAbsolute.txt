@@ -1,0 +1,5 @@
+D:\C#\Chuong1\Marshallmotto\bin\Debug\Marshallmotto.exe.config
+D:\C#\Chuong1\Marshallmotto\bin\Debug\Marshallmotto.exe
+D:\C#\Chuong1\Marshallmotto\bin\Debug\Marshallmotto.pdb
+D:\C#\Chuong1\Marshallmotto\obj\Debug\Marshallmotto.exe
+D:\C#\Chuong1\Marshallmotto\obj\Debug\Marshallmotto.pdb

@@ -1,0 +1,5 @@
+D:\C#\Chuong2\bai13\bin\Debug\bai13.exe.config
+D:\C#\Chuong2\bai13\bin\Debug\bai13.exe
+D:\C#\Chuong2\bai13\bin\Debug\bai13.pdb
+D:\C#\Chuong2\bai13\obj\Debug\bai13.exe
+D:\C#\Chuong2\bai13\obj\Debug\bai13.pdb

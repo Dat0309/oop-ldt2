@@ -1,0 +1,6 @@
+D:\C#\Chuong4\Chuong4\bin\Debug\Chuong4.exe.config
+D:\C#\Chuong4\Chuong4\bin\Debug\Chuong4.exe
+D:\C#\Chuong4\Chuong4\bin\Debug\Chuong4.pdb
+D:\C#\Chuong4\Chuong4\obj\Debug\Bai1.csprojResolveAssemblyReference.cache
+D:\C#\Chuong4\Chuong4\obj\Debug\Chuong4.exe
+D:\C#\Chuong4\Chuong4\obj\Debug\Chuong4.pdb

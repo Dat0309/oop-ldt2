@@ -1,0 +1,6 @@
+D:\C#\Bien trong c Shape\Bien trong c Shape\bin\Debug\Bien trong c Shape.exe.config
+D:\C#\Bien trong c Shape\Bien trong c Shape\bin\Debug\Bien trong c Shape.exe
+D:\C#\Bien trong c Shape\Bien trong c Shape\bin\Debug\Bien trong c Shape.pdb
+D:\C#\Bien trong c Shape\Bien trong c Shape\obj\Debug\Bien trong c Shape.csprojResolveAssemblyReference.cache
+D:\C#\Bien trong c Shape\Bien trong c Shape\obj\Debug\Bien trong c Shape.exe
+D:\C#\Bien trong c Shape\Bien trong c Shape\obj\Debug\Bien trong c Shape.pdb

@@ -1,0 +1,6 @@
+D:\C#\EpKieu\EpKieu\bin\Debug\EpKieu.exe.config
+D:\C#\EpKieu\EpKieu\bin\Debug\EpKieu.exe
+D:\C#\EpKieu\EpKieu\bin\Debug\EpKieu.pdb
+D:\C#\EpKieu\EpKieu\obj\Debug\EpKieu.csprojResolveAssemblyReference.cache
+D:\C#\EpKieu\EpKieu\obj\Debug\EpKieu.exe
+D:\C#\EpKieu\EpKieu\obj\Debug\EpKieu.pdb

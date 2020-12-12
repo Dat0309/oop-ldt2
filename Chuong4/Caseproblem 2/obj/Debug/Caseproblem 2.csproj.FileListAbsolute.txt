@@ -1,0 +1,6 @@
+D:\C#\Chuong4\Caseproblem 2\bin\Debug\Caseproblem 2.exe.config
+D:\C#\Chuong4\Caseproblem 2\bin\Debug\Caseproblem 2.exe
+D:\C#\Chuong4\Caseproblem 2\bin\Debug\Caseproblem 2.pdb
+D:\C#\Chuong4\Caseproblem 2\obj\Debug\Caseproblem 2.csprojResolveAssemblyReference.cache
+D:\C#\Chuong4\Caseproblem 2\obj\Debug\Caseproblem 2.exe
+D:\C#\Chuong4\Caseproblem 2\obj\Debug\Caseproblem 2.pdb

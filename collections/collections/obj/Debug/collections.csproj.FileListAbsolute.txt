@@ -1,0 +1,6 @@
+D:\C#\collections\collections\bin\Debug\collections.exe.config
+D:\C#\collections\collections\obj\Debug\collections.csprojResolveAssemblyReference.cache
+D:\C#\collections\collections\bin\Debug\collections.exe
+D:\C#\collections\collections\bin\Debug\collections.pdb
+D:\C#\collections\collections\obj\Debug\collections.exe
+D:\C#\collections\collections\obj\Debug\collections.pdb

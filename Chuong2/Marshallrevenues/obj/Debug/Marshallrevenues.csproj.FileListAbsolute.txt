@@ -1,0 +1,5 @@
+D:\C#\Chuong2\Marshallrevenues\bin\Debug\Marshallrevenues.exe.config
+D:\C#\Chuong2\Marshallrevenues\bin\Debug\Marshallrevenues.exe
+D:\C#\Chuong2\Marshallrevenues\bin\Debug\Marshallrevenues.pdb
+D:\C#\Chuong2\Marshallrevenues\obj\Debug\Marshallrevenues.exe
+D:\C#\Chuong2\Marshallrevenues\obj\Debug\Marshallrevenues.pdb

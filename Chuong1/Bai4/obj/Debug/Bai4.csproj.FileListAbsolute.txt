@@ -1,0 +1,5 @@
+D:\C#\Chuong1\Bai4\bin\Debug\Bai4.exe.config
+D:\C#\Chuong1\Bai4\bin\Debug\Bai4.exe
+D:\C#\Chuong1\Bai4\bin\Debug\Bai4.pdb
+D:\C#\Chuong1\Bai4\obj\Debug\Bai4.exe
+D:\C#\Chuong1\Bai4\obj\Debug\Bai4.pdb

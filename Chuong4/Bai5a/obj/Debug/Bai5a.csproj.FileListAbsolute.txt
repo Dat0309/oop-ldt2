@@ -1,0 +1,6 @@
+D:\C#\Chuong4\Bai5a\bin\Debug\Bai5a.exe.config
+D:\C#\Chuong4\Bai5a\bin\Debug\Bai5a.exe
+D:\C#\Chuong4\Bai5a\bin\Debug\Bai5a.pdb
+D:\C#\Chuong4\Bai5a\obj\Debug\Bai5a.csprojResolveAssemblyReference.cache
+D:\C#\Chuong4\Bai5a\obj\Debug\Bai5a.exe
+D:\C#\Chuong4\Bai5a\obj\Debug\Bai5a.pdb

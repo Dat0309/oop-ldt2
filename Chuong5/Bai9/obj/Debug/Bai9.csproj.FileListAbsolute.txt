@@ -1,0 +1,5 @@
+D:\C#\Chuong5\Bai9\bin\Debug\Bai9.exe.config
+D:\C#\Chuong5\Bai9\bin\Debug\Bai9.exe
+D:\C#\Chuong5\Bai9\bin\Debug\Bai9.pdb
+D:\C#\Chuong5\Bai9\obj\Debug\Bai9.exe
+D:\C#\Chuong5\Bai9\obj\Debug\Bai9.pdb

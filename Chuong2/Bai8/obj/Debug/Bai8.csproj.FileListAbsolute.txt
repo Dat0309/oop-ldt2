@@ -1,0 +1,5 @@
+D:\C#\Chuong2\Bai8\bin\Debug\Bai8.exe.config
+D:\C#\Chuong2\Bai8\bin\Debug\Bai8.exe
+D:\C#\Chuong2\Bai8\bin\Debug\Bai8.pdb
+D:\C#\Chuong2\Bai8\obj\Debug\Bai8.exe
+D:\C#\Chuong2\Bai8\obj\Debug\Bai8.pdb

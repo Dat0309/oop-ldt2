@@ -1,0 +1,6 @@
+D:\C#\VongLapFor\VongLapFor\bin\Debug\VongLapFor.exe.config
+D:\C#\VongLapFor\VongLapFor\bin\Debug\VongLapFor.exe
+D:\C#\VongLapFor\VongLapFor\bin\Debug\VongLapFor.pdb
+D:\C#\VongLapFor\VongLapFor\obj\Debug\VongLapFor.csprojResolveAssemblyReference.cache
+D:\C#\VongLapFor\VongLapFor\obj\Debug\VongLapFor.exe
+D:\C#\VongLapFor\VongLapFor\obj\Debug\VongLapFor.pdb

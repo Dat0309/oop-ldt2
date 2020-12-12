@@ -1,0 +1,5 @@
+D:\C#\Chuong4\CaseProblem 1\bin\Debug\CaseProblem 1.exe.config
+D:\C#\Chuong4\CaseProblem 1\bin\Debug\CaseProblem 1.exe
+D:\C#\Chuong4\CaseProblem 1\bin\Debug\CaseProblem 1.pdb
+D:\C#\Chuong4\CaseProblem 1\obj\Debug\CaseProblem 1.exe
+D:\C#\Chuong4\CaseProblem 1\obj\Debug\CaseProblem 1.pdb

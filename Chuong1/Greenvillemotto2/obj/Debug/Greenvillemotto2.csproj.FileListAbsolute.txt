@@ -1,0 +1,5 @@
+D:\C#\Chuong1\Greenvillemotto2\bin\Debug\Greenvillemotto2.exe.config
+D:\C#\Chuong1\Greenvillemotto2\bin\Debug\Greenvillemotto2.exe
+D:\C#\Chuong1\Greenvillemotto2\bin\Debug\Greenvillemotto2.pdb
+D:\C#\Chuong1\Greenvillemotto2\obj\Debug\Greenvillemotto2.exe
+D:\C#\Chuong1\Greenvillemotto2\obj\Debug\Greenvillemotto2.pdb

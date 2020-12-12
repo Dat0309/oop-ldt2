@@ -1,0 +1,6 @@
+D:\C#\Chuong2\GreenvilleRevenue\bin\Debug\GreenvilleRevenue.exe.config
+D:\C#\Chuong2\GreenvilleRevenue\bin\Debug\GreenvilleRevenue.exe
+D:\C#\Chuong2\GreenvilleRevenue\bin\Debug\GreenvilleRevenue.pdb
+D:\C#\Chuong2\GreenvilleRevenue\obj\Debug\GreenvilleRevenue.csprojResolveAssemblyReference.cache
+D:\C#\Chuong2\GreenvilleRevenue\obj\Debug\GreenvilleRevenue.exe
+D:\C#\Chuong2\GreenvilleRevenue\obj\Debug\GreenvilleRevenue.pdb

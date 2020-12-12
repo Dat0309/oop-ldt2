@@ -1,0 +1,6 @@
+D:\C#\Cau truc lenh co ban\Cau truc lenh co ban\bin\Debug\Cau truc lenh co ban.exe.config
+D:\C#\Cau truc lenh co ban\Cau truc lenh co ban\bin\Debug\Cau truc lenh co ban.exe
+D:\C#\Cau truc lenh co ban\Cau truc lenh co ban\bin\Debug\Cau truc lenh co ban.pdb
+D:\C#\Cau truc lenh co ban\Cau truc lenh co ban\obj\Debug\Cau truc lenh co ban.csprojResolveAssemblyReference.cache
+D:\C#\Cau truc lenh co ban\Cau truc lenh co ban\obj\Debug\Cau truc lenh co ban.exe
+D:\C#\Cau truc lenh co ban\Cau truc lenh co ban\obj\Debug\Cau truc lenh co ban.pdb
