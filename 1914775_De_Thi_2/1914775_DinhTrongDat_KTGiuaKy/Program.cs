@@ -21,10 +21,21 @@ namespace _1914775_DinhTrongDat_KTGiuaKy
             Console.WriteLine("DANH SACH NHAN VIEN BAN THOI GIAN" + "\n");
             Console.WriteLine(QL.DSNVBTG(DSNV));
             Console.WriteLine("=======================================");
-            Console.WriteLine("Xin moi nhap thang: ");
-            int thang = int.Parse(Console.ReadLine());
-            Console.WriteLine("NHAN VIEN BAN THOI GIAN CO LUONG THAP NHAT THANG {0} LA: ",thang);
-            Console.WriteLine(QL.TimNVBTGLuongMin(DSNV, thang));
+            while (true)
+            {
+                try
+                {
+                    Console.WriteLine("Xin moi nhap thang: ");
+                    int thang = int.Parse(Console.ReadLine());
+                        Console.WriteLine("NHAN VIEN BAN THOI GIAN CO LUONG THAP NHAT THANG {0} LA: ", thang);
+                        Console.WriteLine(QL.TimNVBTGLuongMin(DSNV, thang));
+                        break;
+                }
+                catch
+                {
+                    Console.WriteLine("Khong co nhan vien trong thang nay lam viec, xin moi nhap lai thang!");
+                }
+            }
             Console.WriteLine("NHAN PHIM BAT KY DE QUA CHUC NANG KHAC!!"+"\n");
             Console.ReadKey();
             Console.WriteLine("=======TIM THANG TRA LUONG CHO NHAN VIEN THAP NHAT============"+"\n");
