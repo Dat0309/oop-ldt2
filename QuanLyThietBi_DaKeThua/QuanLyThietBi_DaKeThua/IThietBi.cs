@@ -4,12 +4,21 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace QuanLyThietBi
+namespace QuanLyThietBi_DaKeThua
 {
-    abstract class ThietBi
+    interface IThietBi
     {
-        public abstract float TinhGia();
-        private float giaCPU;
+        float TinhGia();
+        float GiaCPU { get; set; }
+        float GiaRAM { get; set; }
+        string TenCPU { get; set; }
+        string TenRAM { get; set; }
+    }
+    class MayAnh:IThietBi
+    {
+        public List<ILinhKien> dslk = new List<ILinhKien>();
+        public string tenMA;
+        public float giaRAM, giaCPU;
 
         public float GiaCPU
         {
@@ -17,39 +26,25 @@ namespace QuanLyThietBi
             set { giaCPU = value; }
         }
 
-        private float giaRAM;
-
         public float GiaRAM
         {
             get { return giaRAM; }
             set { giaRAM = value; }
         }
-        private string tenCPU;
-
-        public string TenCPU
-        {
-            get { return tenCPU; }
-            set { tenCPU = value; }
-        }
-        private string tenRAM;
+        public string tenCPU, tenRAM;
 
         public string TenRAM
         {
             get { return tenRAM; }
             set { tenRAM = value; }
         }
-    }
-    class MayAnh:ThietBi
-    {
-        public List<LinhKien> dslk = new List<LinhKien>();
-        private string tenMayAnh;
 
-        public string TenMayAnh
+        public string TenCPU
         {
-            get { return tenMayAnh; }
-            set { tenMayAnh = value; }
+            get { return tenCPU; }
+            set { tenCPU = value; }
         }
-        public void Them(LinhKien x)
+        public void Them(ILinhKien x)
         {
             if (!dslk.Contains(x))
                 dslk.Add(x);
@@ -57,15 +52,15 @@ namespace QuanLyThietBi
         public MayAnh() { }
         public MayAnh(string ten,RAM r,CPU c)
         {
-            this.tenMayAnh = ten;
+            this.tenMA = ten;
             Them(r);
-            TenRAM = r.Ten;
-            GiaRAM = r.Gia;
+            TenRAM=r.Ten;
+            GiaRAM=r.Gia;
             Them(c);
             TenCPU = c.Ten;
             GiaCPU = c.Gia;
         }
-        public override float TinhGia()
+        public float TinhGia()
         {
             float tong = 0;
             foreach (var item in dslk)
@@ -74,26 +69,46 @@ namespace QuanLyThietBi
         }
         public override string ToString()
         {
-            string str = tenMayAnh;
+            string str = tenMA;
             foreach (var item in dslk)
             {
                 str += " " + item + ", ";
             }
-            str += "Tong gia " + TinhGia()+"$";
+            str += "Tong gia " + TinhGia() + "$";
             return str;
         }
     }
-    class MayTinh:ThietBi
+    class MayTinh:IThietBi
     {
-        public List<LinhKien> dslk = new List<LinhKien>();
-        private string tenMayTinh;
+        public List<ILinhKien> dslk = new List<ILinhKien>();
+        public string tenMT;
+        public float giaRAM, giaCPU;
 
-        public string TenMayTinh
+        public float GiaCPU
         {
-            get { return tenMayTinh; }
-            set { tenMayTinh = value; }
+            get { return giaCPU; }
+            set { giaCPU = value; }
         }
-        public void Them(LinhKien x)
+
+        public float GiaRAM
+        {
+            get { return giaRAM; }
+            set { giaRAM = value; }
+        }
+        public string tenCPU, tenRAM;
+
+        public string TenRAM
+        {
+            get { return tenRAM; }
+            set { tenRAM = value; }
+        }
+
+        public string TenCPU
+        {
+            get { return tenCPU; }
+            set { tenCPU = value; }
+        }
+        public void Them(ILinhKien x)
         {
             if (!dslk.Contains(x))
                 dslk.Add(x);
@@ -101,7 +116,7 @@ namespace QuanLyThietBi
         public MayTinh() { }
         public MayTinh(string ten,RAM r,CPU c)
         {
-            this.tenMayTinh = ten;
+            this.tenMT = ten;
             Them(r);
             TenRAM = r.Ten;
             GiaRAM = r.Gia;
@@ -109,25 +124,22 @@ namespace QuanLyThietBi
             TenCPU = c.Ten;
             GiaCPU = c.Gia;
         }
-        public override float TinhGia()
+        public float TinhGia()
         {
             float tong = 0;
             foreach (var item in dslk)
-            {
                 tong += item.Gia;
-            }
             return tong;
         }
         public override string ToString()
         {
-            string str = tenMayTinh;
+            string str = tenMT;
             foreach (var item in dslk)
             {
                 str += " " + item + ", ";
             }
-            str += "Tong gia " + TinhGia()+"$";
+            str += "Tong gia " + TinhGia() + "$";
             return str;
         }
-       
     }
 }

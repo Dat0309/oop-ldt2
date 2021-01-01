@@ -85,8 +85,6 @@ namespace QuanLyThietBi
         public DanhSachThietBi TimTheoGia(DanhSachThietBi a,float gia)
         {
             DanhSachThietBi kq=new DanhSachThietBi();
-           
-            
             foreach (var item in a.ds)
             {
                 if (item.TinhGia() == gia)
