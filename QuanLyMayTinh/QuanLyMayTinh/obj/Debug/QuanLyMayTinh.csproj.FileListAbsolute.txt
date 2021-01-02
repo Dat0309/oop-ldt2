@@ -1,0 +1,6 @@
+D:\C#\QuanLyMayTinh\QuanLyMayTinh\bin\Debug\QuanLyMayTinh.exe.config
+D:\C#\QuanLyMayTinh\QuanLyMayTinh\bin\Debug\QuanLyMayTinh.exe
+D:\C#\QuanLyMayTinh\QuanLyMayTinh\bin\Debug\QuanLyMayTinh.pdb
+D:\C#\QuanLyMayTinh\QuanLyMayTinh\obj\Debug\QuanLyMayTinh.csprojResolveAssemblyReference.cache
+D:\C#\QuanLyMayTinh\QuanLyMayTinh\obj\Debug\QuanLyMayTinh.exe
+D:\C#\QuanLyMayTinh\QuanLyMayTinh\obj\Debug\QuanLyMayTinh.pdb
