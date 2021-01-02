@@ -1,0 +1,6 @@
+D:\C#\OnThi\OnThi\bin\Debug\OnThi.exe.config
+D:\C#\OnThi\OnThi\bin\Debug\OnThi.exe
+D:\C#\OnThi\OnThi\bin\Debug\OnThi.pdb
+D:\C#\OnThi\OnThi\obj\Debug\OnThi.csprojResolveAssemblyReference.cache
+D:\C#\OnThi\OnThi\obj\Debug\OnThi.exe
+D:\C#\OnThi\OnThi\obj\Debug\OnThi.pdb
