@@ -1,0 +1,6 @@
+D:\C#\nhap1\nhap1\bin\Debug\nhap1.exe.config
+D:\C#\nhap1\nhap1\bin\Debug\nhap1.exe
+D:\C#\nhap1\nhap1\bin\Debug\nhap1.pdb
+D:\C#\nhap1\nhap1\obj\Debug\nhap1.csprojResolveAssemblyReference.cache
+D:\C#\nhap1\nhap1\obj\Debug\nhap1.exe
+D:\C#\nhap1\nhap1\obj\Debug\nhap1.pdb
