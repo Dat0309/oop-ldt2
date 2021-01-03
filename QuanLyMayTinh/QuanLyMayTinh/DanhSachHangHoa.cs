@@ -59,5 +59,9 @@ namespace QuanLyMayTinh
         {
            return dshh.Count();
         }
+        public void Xoa(IHangHoa x)
+        {
+            dshh.Remove(x);
+        }
     }
 }

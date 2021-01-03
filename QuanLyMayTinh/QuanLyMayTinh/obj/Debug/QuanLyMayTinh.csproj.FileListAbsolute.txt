@@ -4,3 +4,9 @@ D:\C#\QuanLyMayTinh\QuanLyMayTinh\bin\Debug\QuanLyMayTinh.pdb
 D:\C#\QuanLyMayTinh\QuanLyMayTinh\obj\Debug\QuanLyMayTinh.csprojResolveAssemblyReference.cache
 D:\C#\QuanLyMayTinh\QuanLyMayTinh\obj\Debug\QuanLyMayTinh.exe
 D:\C#\QuanLyMayTinh\QuanLyMayTinh\obj\Debug\QuanLyMayTinh.pdb
+D:\GitHub\oop-ldt2\oop-ldt2\QuanLyMayTinh\QuanLyMayTinh\bin\Debug\QuanLyMayTinh.exe.config
+D:\GitHub\oop-ldt2\oop-ldt2\QuanLyMayTinh\QuanLyMayTinh\obj\Debug\QuanLyMayTinh.exe
+D:\GitHub\oop-ldt2\oop-ldt2\QuanLyMayTinh\QuanLyMayTinh\obj\Debug\QuanLyMayTinh.pdb
+D:\GitHub\oop-ldt2\oop-ldt2\QuanLyMayTinh\QuanLyMayTinh\bin\Debug\QuanLyMayTinh.exe
+D:\GitHub\oop-ldt2\oop-ldt2\QuanLyMayTinh\QuanLyMayTinh\bin\Debug\QuanLyMayTinh.pdb
+D:\GitHub\oop-ldt2\oop-ldt2\QuanLyMayTinh\QuanLyMayTinh\obj\Debug\QuanLyMayTinh.csprojResolveAssemblyReference.cache

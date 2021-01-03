@@ -18,7 +18,16 @@ namespace QuanLyMayTinh
             TimMatHangCoTongTienCaoNhat,
             MatHangThanhTienMax,
             TimMaxMatHangX,
-            SapXep
+            SapXep,
+            XoaHangHoaMoTaX
+        }
+        enum sort
+        {
+            TangTheoTien,
+            GianTheoTien,
+            TangSL,
+            SapXepTangTen,
+            SapXepTangTheoChieuDaiTen
         }
         static void Main(string[] args)
         {
@@ -37,6 +46,7 @@ namespace QuanLyMayTinh
                 Console.WriteLine("Nhap {0} de Mat Hang co Thanh Tien cao nhat", (int)Menu.MatHangThanhTienMax);
                 Console.WriteLine("Nhap {0} de Tim gia lon nhat cua mat hang X", (int)Menu.TimMaxMatHangX);
                 Console.WriteLine("Nhap {0} de Sap xep", (int)Menu.SapXep);
+                Console.WriteLine("Nhap {0} de xoa hang hoa co mo ta X", (int)Menu.XoaHangHoaMoTaX);
 
                 Menu nhap = (Menu)int.Parse(Console.ReadLine());
                 switch (nhap)
@@ -82,7 +92,7 @@ namespace QuanLyMayTinh
                             Console.Clear();
                             while(true)
                             {
-                            Console.WriteLine("Xin moi nhap ten!!");
+                            Console.WriteLine("Xin moi nhap ten hang hoa gom (MAY TINH, QUAN AO, GIAY, TAI NGHE)");
                             string ten = Console.ReadLine();
                             try
                             {
@@ -100,7 +110,55 @@ namespace QuanLyMayTinh
                     case Menu.SapXep:
                         {
                             Console.Clear();
-                            ql.SapXep(DSHH).Xuat();
+                            Console.WriteLine("Nhap {0} de Sap xep tang theo thanh tien!", (int)sort.TangTheoTien);
+                            Console.WriteLine("Nhap {0} de Sap xep giam theo thanh tien!", (int)sort.GianTheoTien);
+                            Console.WriteLine("Nhap {0} de Sap xep tang theo so luong", (int)sort.TangSL);
+                            Console.WriteLine("Nhap {0} de sap xep tang theo ten", (int)sort.SapXepTangTen);
+                            Console.WriteLine("Nhap {0} de Sap xep tang theo chieu dai ten", (int)sort.SapXepTangTheoChieuDaiTen);
+
+                            sort n = (sort)int.Parse(Console.ReadLine());
+                            switch (n)
+                            {
+                                case sort.TangTheoTien:
+                                    {
+                                        Console.Clear();
+                                        ql.SapXep(DSHH).Xuat();
+                                    }
+                                    break;
+                                case sort.GianTheoTien:
+                                    {
+                                        Console.Clear();
+                                        ql.SapXepGiam(DSHH).Xuat();
+                                    }
+                                    break;
+                                case sort.TangSL:
+                                    {
+                                        Console.Clear();
+                                        ql.SapXepTangSL(DSHH).Xuat();
+                                    }break;
+                                case sort.SapXepTangTen:
+                                    {
+                                        Console.Clear();
+                                        ql.SapXepTheoTen(DSHH).Xuat();
+                                    }break;
+                                case sort.SapXepTangTheoChieuDaiTen:
+                                    {
+                                        Console.Clear();
+                                        ql.SapXepTangChieuDaiTen(DSHH).Xuat();
+                                    }break;
+                                default:
+                                    break;
+                            }
+                        }break;
+                    case Menu.XoaHangHoaMoTaX:
+                        {
+                            Console.Clear();
+                            DSHH.Xuat();
+                            string ten;
+                            Console.WriteLine("Xin moi nhap ten hang hoa: ");
+                            ten=Console.ReadLine();
+                            ql.XoaHangHoaX(DSHH, ten);
+                            DSHH.Xuat();
                         }break;
                     default:
                         break;

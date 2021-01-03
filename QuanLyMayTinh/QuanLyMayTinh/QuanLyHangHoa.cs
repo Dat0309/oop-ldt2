@@ -26,7 +26,6 @@ namespace QuanLyMayTinh
         private int TongTien(DanhSachHangHoa a)
         {
             int max = int.MinValue;
-            
             foreach (var item in a.dshh)
                 if (!dsten.Contains(item.TenHang))
                     dsten.Add(item.TenHang);
@@ -69,11 +68,7 @@ namespace QuanLyMayTinh
         public DanhSachHangHoa TimDSMatHangX(DanhSachHangHoa a,string ten)
         {
             DanhSachHangHoa kq = new DanhSachHangHoa();
-            foreach (var item in a.dshh)
-            {
-                if (item.TenHang.CompareTo(ten) == 0)
-                    kq.Them(item);
-            }
+                kq.dshh = a.dshh.FindAll(x => x.TenHang == ten).ToList();
             return kq;
         }
         public DanhSachHangHoa TimSoTienMaxMHX(DanhSachHangHoa a,string ten)
@@ -90,5 +85,36 @@ namespace QuanLyMayTinh
             a.dshh.Sort((x, y) => x.ThanhTien().CompareTo(y.ThanhTien()));
             return a;
         }
+        public DanhSachHangHoa SapXepGiam(DanhSachHangHoa a)
+        {
+            a.dshh.Sort((x, y) => y.ThanhTien().CompareTo(x.ThanhTien()));
+            return a;
+        }
+        public DanhSachHangHoa SapXepTangSL(DanhSachHangHoa a)
+        {
+            a.dshh.Sort((x, y) => x.SoLuong.CompareTo(y.SoLuong));
+            return a;
+        }
+        public DanhSachHangHoa SapXepTheoTen(DanhSachHangHoa a)
+        {
+            a.dshh.Sort((x, y) => x.MoTa.CompareTo(y.MoTa));
+            return a;
+        }
+        public DanhSachHangHoa SapXepTangChieuDaiTen(DanhSachHangHoa a)
+        {
+            a.dshh.Sort((x, y) => x.MoTa.Length.CompareTo(y.MoTa.Length));
+            return a;
+        }
+
+        public void XoaHangHoaX(DanhSachHangHoa a,string ten)
+        {
+            DanhSachHangHoa ds=new DanhSachHangHoa();
+                ds.dshh = a.dshh.FindAll(x => x.MoTa == ten).ToList();
+            foreach (var item in ds.dshh)
+            {
+                a.Xoa(item);
+            }
+        }
+
     }
 }
