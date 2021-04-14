@@ -44,7 +44,7 @@ namespace nhap1
         }
         public override string ToString()
         {
-            return string.Format("Sach: Tua de: {0}, NXB: {1}, So trang: {2}", tuaDe, nXB, soTrang);
+            return string.Format("{0,-10} {1,-10} {2.-10}", tuaDe, nXB, soTrang);
         }
  
     }
@@ -73,7 +73,7 @@ namespace nhap1
         }
         public override string ToString()
         {
-            return string.Format("Bao: NXB: {0}, So trang: {1}",nXB,soTrang);
+            return string.Format("{0,-10} {1,-10}",nXB,soTrang);
         }
     }
     class TapChi:IAnPham
@@ -116,7 +116,7 @@ namespace nhap1
         }
         public override string ToString()
         {
-            return string.Format("Tap Chi: Tua de: {0}, NXB: {1}, So trang: {2}, So bai viet: {3} ",tuaDe,nXB,soTrang,soBaiViet);
+            return string.Format("{0,-10} {1,-10} {2,-10} {3,-10}",tuaDe,nXB,soTrang,soBaiViet);
         }
     }
 }

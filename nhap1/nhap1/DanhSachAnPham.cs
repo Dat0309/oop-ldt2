@@ -16,6 +16,7 @@ namespace nhap1
         }
         public override string ToString()
         {
+            Console.WriteLine("LOAI".PadRight(10) + "TUA DE".PadRight(10) + "NXB".PadRight(10) + "SO TRANG".PadRight(10) + "SO BAI VIET".PadRight(10));
             string str = "";
             foreach (var item in dsap)
             {

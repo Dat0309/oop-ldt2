@@ -80,6 +80,7 @@ namespace QuanLyMayTinh
             kq.dshh = a.dshh.Where(x => x.ThanhTien() == max).ToList();
             return kq;
         }
+        #region
         public DanhSachHangHoa SapXep(DanhSachHangHoa a)
         {
             a.dshh.Sort((x, y) => x.ThanhTien().CompareTo(y.ThanhTien()));
@@ -105,7 +106,7 @@ namespace QuanLyMayTinh
             a.dshh.Sort((x, y) => x.MoTa.Length.CompareTo(y.MoTa.Length));
             return a;
         }
-
+        #endregion
         public void XoaHangHoaX(DanhSachHangHoa a,string ten)
         {
             DanhSachHangHoa ds=new DanhSachHangHoa();
